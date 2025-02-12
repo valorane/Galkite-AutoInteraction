@@ -16,7 +16,7 @@ async function main(numberOfInteractions) {
     maxLength: '0',
   });
 
-  console.log(chalk.green("=== Telegram Channel : NT Exhaust ( @NTExhaust ) ===\n"));
+  console.log(chalk.green("=== Telegram Channel : END AIRDROP ( https://t.me/endingdrop ) ===\n"));
 
   const interactions = loadInteractionsFromFile('interactions.txt');
 
